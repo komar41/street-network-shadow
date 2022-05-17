@@ -1,4 +1,4 @@
-# CS594 - Big Data Visualization & Analytics (Fall 2021): Assignment 1
+# CS594 - Big Data Visualization & Analytics (Fall 2021): Assignment 2
 
 Instructor: Fabio Miranda
 
