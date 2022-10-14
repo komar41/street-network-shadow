@@ -1,6 +1,7 @@
 # Shadow Map
 
 CS594 - Big Data Visualization & Analytics (Fall 2021): Assignment 2
+
 Instructor: Fabio Miranda
 
 A web application built to visualize the  distribution of accumulated shadows for each season of the year, making use of a front-end and back-end infrastructure. The accumulated shadows were computed for three days of the year: June 21 (summer solstice), September 22 (autumnal equinox) and December 21 (winter solstice). Shadows can be greatly distorted when they are near the horizon, so all the shadows in the dataset are estimated from one and a half hours after sunrise to one and a half hours before sunset. This time, however, the shadow information was aggregated considering the street network, i.e., each street segment contains the accumulated shadow for the three days of the year.
