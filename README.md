@@ -4,7 +4,7 @@ This project aims to visualize the distribution of accumulated shadows for each 
 
 - **GitHub repo:** https://github.com/komar41/Shadow-Map
 - **Tools used:** Angular, TypeScript, Python, GeoPandas, Flask, D3.js, OpenLayers, HTML, CSS
-- 
+  
 <p align="center">
   <img src="chicago.gif" alt="drawing" style="width: 70%;" /> 
 </p>
