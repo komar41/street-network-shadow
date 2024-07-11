@@ -1,4 +1,4 @@
-# Street Network Shadow Visualization
+# Street Network Shadow Vis
 
 This project aims to visualize the distribution of accumulated shadows for each season of the year across Chicago's street network. By presenting data through interactive map and chart visualizations, we seek to offer a comprehensive understanding of shadow patterns at the street segment level. The project incorporates multiple visualization techniques to showcase different aspects of the data, including geographic distribution and seasonal variations. Our goal is to create an accessible and informative tool for urban planners, researchers, and the general public to explore the impact of shadows on the urban environment.
 
